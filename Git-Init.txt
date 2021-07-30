@@ -1,1 +1,2 @@
 # git_init
+Primeiras Alterações nos Arquivos Anteriormente Submetidos.

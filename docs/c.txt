@@ -1,0 +1,5 @@
+Criando Arquivo para teste de Exclusão:
+
+1) Removendo parte do texto a seguir: BLÁ BLÁ BLÁ
+
+2) Removendo arquivo d.txt neste diretório
